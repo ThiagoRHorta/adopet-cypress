@@ -5,7 +5,7 @@ describe('Página de Login', () => {
     })
 
     it('Deve preencher os campos de login corretamente e autenticar o usuário na página', () => {
-        cy.login('thiagorhorta2@email.com', 'Senha123')
+        cy.login('thiagorhorta3@email.com', 'Senha123')
     })
 })
 
